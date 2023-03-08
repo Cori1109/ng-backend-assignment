@@ -30,7 +30,7 @@ You need to have Docker (for ```docker-compose```) installed on your machine in 
 
 Make sure you have Git installed on your machine so you can clone this project by running the following command:
 ```
-git clone https://github.com/luiscoelhodev/ng-backend-assignment.git
+git clone https://github.com/Cori1109/ng-backend-assignment.git
 ```
 
 Alternatively, if you are reading this README after downloading the .zip file, you already have all the necessary files in the root folder so you can move along.

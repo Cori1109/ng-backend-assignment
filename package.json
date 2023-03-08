@@ -10,7 +10,7 @@
     "start": "node ./dist/index.js",
     "start:docker": "npx prisma migrate dev && node ./dist/index.js"
   },
-  "author": "Luis Coelho",
+  "author": "Rafael Barbu",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.14",
